@@ -5,10 +5,10 @@
         id        = "com.phonegap.api-request"
         version   = "1.0.0">
 
-    <name>CFCST logo</name>
+    <name>CFCST appdemo</name>
 
     <description>
-        My Simple Curriculum Vitae Mobile App.
+        demo2.
     </description>
 
     <icon src="cotabato.jpg" />
